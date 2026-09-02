@@ -43,13 +43,21 @@ pip install discord.py
 리눅스는 터미널에서 가상환경 변수를 만들어 실행하세요!
 
 1. 봇 프로젝트 폴더로 이동
+
+
 cd /home/user/question_bot_v2-main_Randy_ver ( 경로 확인 후 터미널 입력 )
 
 2. 파이썬 가상환경 생성 (최초 1회만)
+
+
 python3 -m venv venv
 
 3. 가상환경 활성화
+
+
 source venv/bin/activate
 
 4. 봇 실행
+
+
 python3 main.py
