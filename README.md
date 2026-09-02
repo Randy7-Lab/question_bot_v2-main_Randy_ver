@@ -15,11 +15,13 @@ DIscord Question_bot_Randy_ver
 꼭 pip 최신화 및 discord.py 설치 해주세요.
 
 Windows
+
 python -m pip install --upgrade pip
 
 pip install discord.py
 
 Linux
+
 가상환경 설정후 ( 가상환경 아래 확인 )
 
 pip install --upgrade pip
