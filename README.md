@@ -32,6 +32,11 @@ pip install --upgrade pip
 
 pip install discord.py
 
+## 필수 수정 페이지
+### config.json, main.py (서버명과 기타 이름 수정, 이모지)
+
+### source → add_message.py (서버명과 기타 이름 수정)
+
 ## Bot
 봇 생성 디스코드 개발자 포털 : [DISCORD DEVELOPER PORTAL](https://discord.com/developers/applications)
 
