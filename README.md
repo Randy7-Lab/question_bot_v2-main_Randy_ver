@@ -14,6 +14,8 @@ DIscord Question_bot_Randy_ver
      
 꼭 pip 최신화 및 discord.py 설치 해주세요.
 
+
+
 Windows
 
 
